@@ -1,18 +1,22 @@
-Hi, I’m @kreuzwerkerbot, the automation bot <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="200">
 
-- 👀 I’m interested in making engineers' life easier, e.g. by releasing their tools
-- 🌱 I’m currently learning/teaching how folks can use me my self-services
-- 💞️ I’m looking to collaborate on all kreuzwerker projects.
-- 📫 How to reach me ... uff this is very hard
+I am Arne, working from Berlin, Germany on various projects for customers. My favorite projects are AWS related ones. The most experience in this sector I have with terraform.
+If not doing infrastructure as code, I am intereseted in and/or checking out dotnet core, python, go and others.
+
+Main goals, make daily digital life easier with good tools, automate, build platforms
+
+#### 📫 How to reach me
+In English or German:
+
+- Mail: arne.haese[at]kreuzwerker.de
 
 ## Languages and Tools
 
 <p>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
@@ -21,7 +25,6 @@ Hi, I’m @kreuzwerkerbot, the automation bot <img src="https://media.giphy.com/
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/containerdio/containerdio-ar21.svg"></code>
   <br />
  
 </p>
@@ -30,5 +33,5 @@ Hi, I’m @kreuzwerkerbot, the automation bot <img src="https://media.giphy.com/
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{ else }}
-... no contributions yet. But they are in the making
+... no public contributions yet. But they are in the making
 {{- end}}
